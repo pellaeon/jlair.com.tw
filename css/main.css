@@ -1,13 +1,13 @@
 /*playfair + opensans = elegant*/
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 * {
-	font-family: 'karla', sans-serif;
+	font-family: Arial, "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", "DFKai-SB", sans-serif;
 }
 .heading,
 .heading *,
 .subheading,
 .subheading * {
-	font-family: 'Playfair Display', serif;
+
 }.footer,
 .header {
 	background: #9CE7D9;
